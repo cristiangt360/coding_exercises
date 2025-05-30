@@ -4,6 +4,6 @@ Hi!! In this repository I'll be periodically uploading my solutions to some codi
 
 For now all of the exercises are from [Codewars](https://www.codewars.com)
 
-[Codewars Profile](https://www.codewars.com/users/cristian-torres-ds).
+[Codewars Profile](https://www.codewars.com/users/cristiangt360).
 
 ![Codewars](src/codewars.png)
